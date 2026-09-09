@@ -1,0 +1,18 @@
+﻿ANO,ARQUIVO,TABELA,GRANULARIDADE,CHAVE,REGISTROS,COLUNAS,CHAVES_NULAS,DUPLICIDADES_CO_ENTIDADE,DICIONARIO_ASSOCIADO
+2021,dicionário_dados_educação_básica_2021.xlsx,Dicionario,metadados,VARIAVEL,,,,,dicionário_dados_educação_básica_2021.xlsx
+2021,microdados_ed_basica_2021.csv,Escola consolidada,1 registro/escola,CO_ENTIDADE,221140.0,370.0,0.0,0.0,dicionário_dados_educação_básica_2021.xlsx
+2022,dicionário_dados_educação_básica_2022.xlsx,Dicionario,metadados,VARIAVEL,,,,,dicionário_dados_educação_básica_2022.xlsx
+2022,microdados_ed_basica_2022.csv,Escola consolidada,1 registro/escola,CO_ENTIDADE,224649.0,385.0,0.0,0.0,dicionário_dados_educação_básica_2022.xlsx
+2023,dicionário_dados_educação_básica_2023.xlsx,Dicionario,metadados,VARIAVEL,,,,,dicionário_dados_educação_básica_2023.xlsx
+2023,microdados_ed_basica_2023.csv,Escola consolidada,1 registro/escola,CO_ENTIDADE,217625.0,408.0,0.0,0.0,dicionário_dados_educação_básica_2023.xlsx
+2023,suplemento_cursos_tecnicos_2023.csv,Curso tecnico,1 registro/escola-curso,CO_ENTIDADE+CO_CURSO_EDUC_PROFISSIONAL,23224.0,29.0,0.0,0.0,dicionário_dados_educação_básica_2023.xlsx
+2024,dicionário_dados_educação_básica_2024.xlsx,Dicionario,metadados,VARIAVEL,,,,,dicionário_dados_educação_básica_2024.xlsx
+2024,microdados_ed_basica_2024.csv,Escola consolidada,1 registro/escola,CO_ENTIDADE,215545.0,426.0,0.0,0.0,dicionário_dados_educação_básica_2024.xlsx
+2024,suplemento_cursos_tecnicos_2024.csv,Curso tecnico,1 registro/escola-curso,CO_ENTIDADE+CO_CURSO_EDUC_PROFISSIONAL,27516.0,29.0,0.0,0.0,dicionário_dados_educação_básica_2024.xlsx
+2025,dicionário_dados_educação_básica_2025.xlsx,Dicionario,metadados,VARIAVEL,,,,,dicionário_dados_educação_básica_2025.xlsx
+2025,Tabela_Curso_Tecnico_2025_V2.csv,Curso tecnico,1 registro/escola-curso,CO_ENTIDADE+CO_CURSO_EDUC_PROFISSIONAL,32136.0,49.0,0.0,0.0,dicionário_dados_educação_básica_2025.xlsx
+2025,Tabela_Docente_2025_V2.csv,Docente,1 registro/escola,CO_ENTIDADE,178772.0,184.0,0.0,0.0,dicionário_dados_educação_básica_2025.xlsx
+2025,Tabela_Escola_2025_V2.csv,Escola,1 registro/escola,CO_ENTIDADE,214192.0,290.0,0.0,0.0,dicionário_dados_educação_básica_2025.xlsx
+2025,Tabela_Gestor_Escolar_2025_v2.csv,Gestor,1 registro/escola,CO_ENTIDADE,180540.0,88.0,0.0,0.0,dicionário_dados_educação_básica_2025.xlsx
+2025,Tabela_Matricula_2025_V2.csv,Matricula,1 registro/escola,CO_ENTIDADE,178766.0,263.0,0.0,0.0,dicionário_dados_educação_básica_2025.xlsx
+2025,Tabela_Turma_2025_V2.csv,Turma,1 registro/escola,CO_ENTIDADE,178772.0,218.0,0.0,0.0,dicionário_dados_educação_básica_2025.xlsx

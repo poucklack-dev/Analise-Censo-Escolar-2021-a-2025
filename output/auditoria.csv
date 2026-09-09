@@ -1,0 +1,7 @@
+﻿tabela,registros,chaves_unicas_no_grao,chaves_nulas,duplicidades_chave,valores_quantitativos_negativos,escolas_ativas_com_correspondencia,pct_correspondencia_ativas,chaves_sem_dimensao_escola
+escola,214192,214192,0,0,0,,,
+matricula,178766,178766,0,0,0,178766.0,99.017,0.0
+docente,178772,178772,0,0,0,178772.0,99.021,0.0
+turma,178772,178772,0,0,0,178772.0,99.021,0.0
+gestor,180540,180540,0,0,0,180540.0,100.0,0.0
+curso,32136,32136,0,0,0,12026.0,6.661,0.0

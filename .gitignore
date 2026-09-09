@@ -1,0 +1,38 @@
+# Bases brutas do Censo Escolar (grandes e reproduzíveis)
+dados/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# IDE e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Logs e temporários
+*.log
+*.tmp
+~$*
+
+# Artefato substituído pelo arquivo previsoes_matriculas.parquet
+output/historico/previsoes_matriculas_2026.parquet

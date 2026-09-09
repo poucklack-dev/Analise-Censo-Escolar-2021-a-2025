@@ -1,0 +1,13 @@
+﻿Métrica,Definição,Fórmula conceitual,Fonte,Observações
+Escolas em atividade,Escolas com situação 1,COUNT DISTINCT CO_ENTIDADE onde situação = ativa,Escola,Extintas/paralisadas excluídas dos KPIs
+Matrículas,Matrículas da educação básica,Σ QT_MAT_BAS,Matrícula,Agregado escolar
+Docentes,Docentes/vínculos informados,Σ QT_DOC_BAS,Docente,Não necessariamente pessoas únicas entre escolas
+Alunos por docente,Carga discente relativa,Σ matrículas / Σ docentes,Matrícula + Docente,Razão de totais
+Alunos por turma,Tamanho operacional médio,Σ matrículas / Σ turmas,Matrícula + Turma,Razão de totais
+Tempo integral,Participação de matrículas integrais,Σ integral / Σ matrículas × 100,Matrícula,Denominador > 0
+Diversidade racial,Probabilidade de dois alunos informados pertencerem a grupos diferentes,(1 - Σ pᵢ²) × 100,Matrícula,Índice de Simpson; exclui não informados
+IMDE,Maturidade digital escolar,média ponderada observada: internet 20%; banda 25%; aluno 20%; aprendizagem 20%; equipamentos 15%,Escola + Matrícula,Equipamentos saturados em 20/100 alunos; pesos renormalizados ante nulos
+Índice de Acessibilidade,Cobertura de oito recursos,média dos itens observados × 100,Escola,Nulos não viram zero
+HHI técnico,Concentração de matrículas entre cursos,Σ participação² × 10.000,Curso Técnico,0 diversificado; 10.000 curso único
+IPI,Prioridade de infraestrutura,45% carência + 35% pressão + 20% volume,Todas,Indicadores winsorizados P5–P95; sinal para investigação
+Outlier de pressão,Sinal estatístico de carga elevada,"> Q3 + 1,5×IQR em qualquer indicador",Escola,Não significa escola ruim

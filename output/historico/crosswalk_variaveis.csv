@@ -1,0 +1,291 @@
+﻿VARIAVEL_PADRAO,ANO,VARIAVEL_ORIGINAL,STATUS_COMPATIBILIDADE,DESCRICAO_OFICIAL,OBSERVACAO
+NU_ANO_CENSO,2021,NU_ANO_CENSO,COMPATIVEL,Ano do Censo,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NU_ANO_CENSO,2022,NU_ANO_CENSO,COMPATIVEL,Ano do Censo,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NU_ANO_CENSO,2023,NU_ANO_CENSO,COMPATIVEL,Ano do Censo,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NU_ANO_CENSO,2024,NU_ANO_CENSO,COMPATIVEL,Ano do Censo,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NU_ANO_CENSO,2025,NU_ANO_CENSO,COMPATIVEL,Ano do Censo,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_REGIAO,2021,NO_REGIAO,COMPATIVEL,Nome da região geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_REGIAO,2022,NO_REGIAO,COMPATIVEL,Nome da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_REGIAO,2023,NO_REGIAO,COMPATIVEL,Nome da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_REGIAO,2024,NO_REGIAO,COMPATIVEL,Nome da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_REGIAO,2025,NO_REGIAO,COMPATIVEL,Nome da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_REGIAO,2021,CO_REGIAO,COMPATIVEL,Código da região geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_REGIAO,2022,CO_REGIAO,COMPATIVEL,Código da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_REGIAO,2023,CO_REGIAO,COMPATIVEL,Código da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_REGIAO,2024,CO_REGIAO,COMPATIVEL,Código da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_REGIAO,2025,CO_REGIAO,COMPATIVEL,Código da Região Geográfica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_UF,2021,NO_UF,COMPATIVEL,Nome da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_UF,2022,NO_UF,COMPATIVEL,Nome da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_UF,2023,NO_UF,COMPATIVEL,Nome da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_UF,2024,NO_UF,COMPATIVEL,Nome da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_UF,2025,NO_UF,COMPATIVEL,Nome da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+SG_UF,2021,SG_UF,COMPATIVEL,Sigla da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+SG_UF,2022,SG_UF,COMPATIVEL,Sigla da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+SG_UF,2023,SG_UF,COMPATIVEL,Sigla da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+SG_UF,2024,SG_UF,COMPATIVEL,Sigla da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+SG_UF,2025,SG_UF,COMPATIVEL,Sigla da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_UF,2021,CO_UF,EQUIVALENCIA PARCIAL,Código da UF,Mesmo codigo; descricao/estrutura historica requer cautela.
+CO_UF,2022,CO_UF,COMPATIVEL,Código da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_UF,2023,CO_UF,COMPATIVEL,Código da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_UF,2024,CO_UF,COMPATIVEL,Código da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_UF,2025,CO_UF,COMPATIVEL,Código da Unidade da Federação,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_MUNICIPIO,2021,NO_MUNICIPIO,COMPATIVEL,Nome do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_MUNICIPIO,2022,NO_MUNICIPIO,COMPATIVEL,Nome do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_MUNICIPIO,2023,NO_MUNICIPIO,COMPATIVEL,Nome do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_MUNICIPIO,2024,NO_MUNICIPIO,COMPATIVEL,Nome do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_MUNICIPIO,2025,NO_MUNICIPIO,COMPATIVEL,Nome do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_MUNICIPIO,2021,CO_MUNICIPIO,COMPATIVEL,Código do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_MUNICIPIO,2022,CO_MUNICIPIO,COMPATIVEL,Código do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_MUNICIPIO,2023,CO_MUNICIPIO,COMPATIVEL,Código do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_MUNICIPIO,2024,CO_MUNICIPIO,COMPATIVEL,Código do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_MUNICIPIO,2025,CO_MUNICIPIO,COMPATIVEL,Código do Município,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_ENTIDADE,2021,NO_ENTIDADE,COMPATIVEL,Nome da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_ENTIDADE,2022,NO_ENTIDADE,COMPATIVEL,Nome da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_ENTIDADE,2023,NO_ENTIDADE,COMPATIVEL,Nome da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_ENTIDADE,2024,NO_ENTIDADE,COMPATIVEL,Nome da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+NO_ENTIDADE,2025,NO_ENTIDADE,COMPATIVEL,Nome da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_ENTIDADE,2021,CO_ENTIDADE,COMPATIVEL,Código da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_ENTIDADE,2022,CO_ENTIDADE,COMPATIVEL,Código da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_ENTIDADE,2023,CO_ENTIDADE,COMPATIVEL,Código da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_ENTIDADE,2024,CO_ENTIDADE,COMPATIVEL,Código da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+CO_ENTIDADE,2025,CO_ENTIDADE,COMPATIVEL,Código da Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_DEPENDENCIA,2021,TP_DEPENDENCIA,COMPATIVEL,Dependência Administrativa,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_DEPENDENCIA,2022,TP_DEPENDENCIA,COMPATIVEL,Dependência Administrativa,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_DEPENDENCIA,2023,TP_DEPENDENCIA,COMPATIVEL,Dependência Administrativa,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_DEPENDENCIA,2024,TP_DEPENDENCIA,COMPATIVEL,Dependência Administrativa,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_DEPENDENCIA,2025,TP_DEPENDENCIA,COMPATIVEL,Dependência Administrativa,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_LOCALIZACAO,2021,TP_LOCALIZACAO,COMPATIVEL,Localização,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_LOCALIZACAO,2022,TP_LOCALIZACAO,COMPATIVEL,Localização,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_LOCALIZACAO,2023,TP_LOCALIZACAO,COMPATIVEL,Localização,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_LOCALIZACAO,2024,TP_LOCALIZACAO,COMPATIVEL,Localização,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_LOCALIZACAO,2025,TP_LOCALIZACAO,COMPATIVEL,Localização,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_SITUACAO_FUNCIONAMENTO,2021,TP_SITUACAO_FUNCIONAMENTO,COMPATIVEL,Situação de funcionamento,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_SITUACAO_FUNCIONAMENTO,2022,TP_SITUACAO_FUNCIONAMENTO,COMPATIVEL,Situação de funcionamento,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_SITUACAO_FUNCIONAMENTO,2023,TP_SITUACAO_FUNCIONAMENTO,COMPATIVEL,Situação de funcionamento,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_SITUACAO_FUNCIONAMENTO,2024,TP_SITUACAO_FUNCIONAMENTO,COMPATIVEL,Situação de funcionamento,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+TP_SITUACAO_FUNCIONAMENTO,2025,TP_SITUACAO_FUNCIONAMENTO,COMPATIVEL,Situação de funcionamento,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_BAS,2021,QT_MAT_BAS,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Básica,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_BAS,2022,QT_MAT_BAS,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Básica,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_BAS,2023,QT_MAT_BAS,COMPATIVEL,Número de Matrículas da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_BAS,2024,QT_MAT_BAS,COMPATIVEL,Número de Matrículas da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_BAS,2025,QT_MAT_BAS,COMPATIVEL,Número de Matrículas da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DOC_BAS,2021,QT_DOC_BAS,COMPATIVEL,Número de Docentes da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DOC_BAS,2022,QT_DOC_BAS,COMPATIVEL,Número de Docentes da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DOC_BAS,2023,QT_DOC_BAS,COMPATIVEL,Número de Docentes da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DOC_BAS,2024,QT_DOC_BAS,COMPATIVEL,Número de Docentes da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DOC_BAS,2025,QT_DOC_BAS,COMPATIVEL,Número de Docentes da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_TUR_BAS,2021,QT_TUR_BAS,EQUIVALENCIA PARCIAL,Número de Turmas de Educação Básica,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_TUR_BAS,2022,QT_TUR_BAS,EQUIVALENCIA PARCIAL,Número de Turmas de Educação Básica,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_TUR_BAS,2023,QT_TUR_BAS,EQUIVALENCIA PARCIAL,Número de Turmas de Educação Básica,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_TUR_BAS,2024,QT_TUR_BAS,EQUIVALENCIA PARCIAL,Número de Turmas de Educação Básica,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_TUR_BAS,2025,QT_TUR_BAS,COMPATIVEL,Número de Turmas da Educação Básica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_INF_CRE,2021,QT_MAT_INF_CRE,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Infantil - Creche,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_INF_CRE,2022,QT_MAT_INF_CRE,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Infantil - Creche,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_INF_CRE,2023,QT_MAT_INF_CRE,COMPATIVEL,Número de Matrículas da Educação Infantil - Creche,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_INF_CRE,2024,QT_MAT_INF_CRE,COMPATIVEL,Número de Matrículas da Educação Infantil - Creche,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_INF_CRE,2025,QT_MAT_INF_CRE,COMPATIVEL,Número de Matrículas da Educação Infantil - Creche,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_INF_PRE,2021,QT_MAT_INF_PRE,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Infantil - Pré-Escola,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_INF_PRE,2022,QT_MAT_INF_PRE,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Infantil - Pré-Escola,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_INF_PRE,2023,QT_MAT_INF_PRE,COMPATIVEL,Número de Matrículas da Educação Infantil - Pré-Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_INF_PRE,2024,QT_MAT_INF_PRE,COMPATIVEL,Número de Matrículas da Educação Infantil - Pré-Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_INF_PRE,2025,QT_MAT_INF_PRE,COMPATIVEL,Número de Matrículas da Educação Infantil - Pré-Escola,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_FUND_AI,2021,QT_MAT_FUND_AI,EQUIVALENCIA PARCIAL,Número de Matrículas no Ensino Fundamental - Anos Iniciais,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_FUND_AI,2022,QT_MAT_FUND_AI,EQUIVALENCIA PARCIAL,Número de Matrículas no Ensino Fundamental - Anos Iniciais,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_FUND_AI,2023,QT_MAT_FUND_AI,COMPATIVEL,Número de Matrículas do Ensino Fundamental - Anos Iniciais,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_FUND_AI,2024,QT_MAT_FUND_AI,COMPATIVEL,Número de Matrículas do Ensino Fundamental - Anos Iniciais,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_FUND_AI,2025,QT_MAT_FUND_AI,COMPATIVEL,Número de Matrículas do Ensino Fundamental - Anos Iniciais,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_FUND_AF,2021,QT_MAT_FUND_AF,EQUIVALENCIA PARCIAL,Número de Matrículas no Ensino Fundamental - Anos Finais,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_FUND_AF,2022,QT_MAT_FUND_AF,EQUIVALENCIA PARCIAL,Número de Matrículas no Ensino Fundamental - Anos Finais,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_FUND_AF,2023,QT_MAT_FUND_AF,COMPATIVEL,Número de Matrículas do Ensino Fundamental - Anos Finais,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_FUND_AF,2024,QT_MAT_FUND_AF,COMPATIVEL,Número de Matrículas do Ensino Fundamental - Anos Finais,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_FUND_AF,2025,QT_MAT_FUND_AF,COMPATIVEL,Número de Matrículas do Ensino Fundamental - Anos Finais,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_MED,2021,QT_MAT_MED,EQUIVALENCIA PARCIAL,Número de Matrículas no Ensino Médio,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_MED,2022,QT_MAT_MED,EQUIVALENCIA PARCIAL,Número de Matrículas no Ensino Médio,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_MED,2023,QT_MAT_MED,EQUIVALENCIA PARCIAL,Número de Matrículas do Ensino Médio,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_MED,2024,QT_MAT_MED,EQUIVALENCIA PARCIAL,Número de Matrículas do Ensino Médio,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_MED,2025,QT_MAT_MED,COMPATIVEL,Número de Matrículas do Ensino Médio Regular,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_EJA,2021,QT_MAT_EJA,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação de Jovens e Adultos (EJA),Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_EJA,2022,QT_MAT_EJA,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação de Jovens e Adultos (EJA),Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_EJA,2023,QT_MAT_EJA,COMPATIVEL,Número de Matrículas da Educação de Jovens e Adultos (EJA),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_EJA,2024,QT_MAT_EJA,COMPATIVEL,Número de Matrículas da Educação de Jovens e Adultos (EJA),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_EJA,2025,QT_MAT_EJA,COMPATIVEL,Número de Matrículas da Educação de Jovens e Adultos (EJA),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_PROF,2021,QT_MAT_PROF,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Profissional,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_PROF,2022,QT_MAT_PROF,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Profissional,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_PROF,2023,QT_MAT_PROF,COMPATIVEL,Número de Matrículas da Educação Profissional,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_PROF,2024,QT_MAT_PROF,COMPATIVEL,Número de Matrículas da Educação Profissional,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_PROF,2025,QT_MAT_PROF,COMPATIVEL,Número de Matrículas da Educação Profissional,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_PROF_TEC,2021,QT_MAT_PROF_TEC,EQUIVALENCIA PARCIAL,"Número de Matrículas na Educação Profissional Técnica - Modo profissionalizante de ensino correspondente às turmas de cursos técnicos de nível médio nas formas articuladas (integrada ou concomitante), ou subsequente ao ensino médio e de normal/magistério",Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_PROF_TEC,2022,QT_MAT_PROF_TEC,EQUIVALENCIA PARCIAL,"Número de Matrículas na Educação Profissional Técnica - Modo profissionalizante de ensino correspondente às turmas de cursos técnicos de nível médio nas formas articuladas (integrada ou concomitante), ou subsequente ao ensino médio e de normal/magistério",Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_PROF_TEC,2023,QT_MAT_PROF_TEC,COMPATIVEL,Número de Matrículas da Educação Profissional Técnica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_PROF_TEC,2024,QT_MAT_PROF_TEC,EQUIVALENCIA PARCIAL,,Mesmo codigo; descricao/estrutura historica requer cautela.
+QT_MAT_PROF_TEC,2025,QT_MAT_PROF_TEC,COMPATIVEL,Número de Matrículas da Educação Profissional Técnica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS,2021,QT_SALAS_UTILIZADAS,COMPATIVEL,Número de salas de aula utilizadas na escola (dentro e fora do prédio),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS,2022,QT_SALAS_UTILIZADAS,COMPATIVEL,Número de salas de aula utilizadas na escola (dentro e fora do prédio),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS,2023,QT_SALAS_UTILIZADAS,COMPATIVEL,Número de salas de aula utilizadas na escola (dentro e fora do prédio),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS,2024,QT_SALAS_UTILIZADAS,COMPATIVEL,Número de salas de aula utilizadas na escola (dentro e fora do prédio),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS,2025,QT_SALAS_UTILIZADAS,COMPATIVEL,Número de salas de aula utilizadas na escola (dentro e fora do prédio),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZA_CLIMATIZADAS,2021,QT_SALAS_UTILIZA_CLIMATIZADAS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula climatizadas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZA_CLIMATIZADAS,2022,QT_SALAS_UTILIZA_CLIMATIZADAS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula climatizadas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZA_CLIMATIZADAS,2023,QT_SALAS_UTILIZA_CLIMATIZADAS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula climatizadas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZA_CLIMATIZADAS,2024,QT_SALAS_UTILIZA_CLIMATIZADAS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula climatizadas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZA_CLIMATIZADAS,2025,QT_SALAS_UTILIZA_CLIMATIZADAS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula climatizadas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS_ACESSIVEIS,2021,QT_SALAS_UTILIZADAS_ACESSIVEIS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula com acessibilidade para pessoas com deficiência ou mobilidade reduzida,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS_ACESSIVEIS,2022,QT_SALAS_UTILIZADAS_ACESSIVEIS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula com acessibilidade para pessoas com deficiência ou mobilidade reduzida,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS_ACESSIVEIS,2023,QT_SALAS_UTILIZADAS_ACESSIVEIS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula com acessibilidade para pessoas com deficiência ou mobilidade reduzida,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS_ACESSIVEIS,2024,QT_SALAS_UTILIZADAS_ACESSIVEIS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula com acessibilidade para pessoas com deficiência ou mobilidade reduzida,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_SALAS_UTILIZADAS_ACESSIVEIS,2025,QT_SALAS_UTILIZADAS_ACESSIVEIS,COMPATIVEL,Condições das salas de aula utilizadas na escola (dentro e fora do prédio escolar) - Número de salas de aula com acessibilidade para pessoas com deficiência ou mobilidade reduzida,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DESKTOP_ALUNO,2021,QT_DESKTOP_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador de mesa (desktop),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DESKTOP_ALUNO,2022,QT_DESKTOP_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador de mesa (desktop),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DESKTOP_ALUNO,2023,QT_DESKTOP_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador de mesa (desktop),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DESKTOP_ALUNO,2024,QT_DESKTOP_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador de mesa (desktop),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_DESKTOP_ALUNO,2025,QT_DESKTOP_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador de mesa (desktop),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_COMP_PORTATIL_ALUNO,2021,QT_COMP_PORTATIL_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador portátil,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_COMP_PORTATIL_ALUNO,2022,QT_COMP_PORTATIL_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador portátil,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_COMP_PORTATIL_ALUNO,2023,QT_COMP_PORTATIL_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador portátil,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_COMP_PORTATIL_ALUNO,2024,QT_COMP_PORTATIL_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador portátil,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_COMP_PORTATIL_ALUNO,2025,QT_COMP_PORTATIL_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Computador portátil,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_TABLET_ALUNO,2021,QT_TABLET_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Tablet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_TABLET_ALUNO,2022,QT_TABLET_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Tablet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_TABLET_ALUNO,2023,QT_TABLET_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Tablet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_TABLET_ALUNO,2024,QT_TABLET_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Tablet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_TABLET_ALUNO,2025,QT_TABLET_ALUNO,COMPATIVEL,Quantidade de computadores em uso pelos alunos - Tablet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET,2021,IN_INTERNET,COMPATIVEL,Acesso à Internet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET,2022,IN_INTERNET,COMPATIVEL,Acesso à Internet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET,2023,IN_INTERNET,COMPATIVEL,Acesso à Internet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET,2024,IN_INTERNET,COMPATIVEL,Acesso à Internet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET,2025,IN_INTERNET,COMPATIVEL,Acesso à Internet,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BANDA_LARGA,2021,IN_BANDA_LARGA,COMPATIVEL,Internet Banda Larga,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BANDA_LARGA,2022,IN_BANDA_LARGA,COMPATIVEL,Internet Banda Larga,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BANDA_LARGA,2023,IN_BANDA_LARGA,COMPATIVEL,Internet Banda Larga,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BANDA_LARGA,2024,IN_BANDA_LARGA,COMPATIVEL,Internet Banda Larga,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BANDA_LARGA,2025,IN_BANDA_LARGA,COMPATIVEL,Internet Banda Larga,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_ALUNOS,2021,IN_INTERNET_ALUNOS,COMPATIVEL,Acesso à Internet - Para uso dos alunos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_ALUNOS,2022,IN_INTERNET_ALUNOS,COMPATIVEL,Acesso à Internet - Para uso dos alunos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_ALUNOS,2023,IN_INTERNET_ALUNOS,COMPATIVEL,Acesso à Internet - Para uso dos alunos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_ALUNOS,2024,IN_INTERNET_ALUNOS,COMPATIVEL,Acesso à Internet - Para uso dos alunos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_ALUNOS,2025,IN_INTERNET_ALUNOS,COMPATIVEL,Acesso à Internet - Para uso dos alunos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_APRENDIZAGEM,2021,IN_INTERNET_APRENDIZAGEM,COMPATIVEL,Acesso à Internet - Para uso nos processos de ensino e aprendizagem,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_APRENDIZAGEM,2022,IN_INTERNET_APRENDIZAGEM,COMPATIVEL,Acesso à Internet - Para uso nos processos de ensino e aprendizagem,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_APRENDIZAGEM,2023,IN_INTERNET_APRENDIZAGEM,COMPATIVEL,Acesso à Internet - Para uso nos processos de ensino e aprendizagem,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_APRENDIZAGEM,2024,IN_INTERNET_APRENDIZAGEM,COMPATIVEL,Acesso à Internet - Para uso nos processos de ensino e aprendizagem,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_INTERNET_APRENDIZAGEM,2025,IN_INTERNET_APRENDIZAGEM,COMPATIVEL,Acesso à Internet - Para uso nos processos de ensino e aprendizagem,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_INFORMATICA,2021,IN_LABORATORIO_INFORMATICA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de informática,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_INFORMATICA,2022,IN_LABORATORIO_INFORMATICA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de informática,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_INFORMATICA,2023,IN_LABORATORIO_INFORMATICA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de informática,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_INFORMATICA,2024,IN_LABORATORIO_INFORMATICA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de informática,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_INFORMATICA,2025,IN_LABORATORIO_INFORMATICA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de informática,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA,2021,IN_BIBLIOTECA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA,2022,IN_BIBLIOTECA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA,2023,IN_BIBLIOTECA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA,2024,IN_BIBLIOTECA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA,2025,IN_BIBLIOTECA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA_SALA_LEITURA,2021,IN_BIBLIOTECA_SALA_LEITURA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA_SALA_LEITURA,2022,IN_BIBLIOTECA_SALA_LEITURA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA_SALA_LEITURA,2023,IN_BIBLIOTECA_SALA_LEITURA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA_SALA_LEITURA,2024,IN_BIBLIOTECA_SALA_LEITURA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_BIBLIOTECA_SALA_LEITURA,2025,IN_BIBLIOTECA_SALA_LEITURA,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_CIENCIAS,2021,IN_LABORATORIO_CIENCIAS,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_CIENCIAS,2022,IN_LABORATORIO_CIENCIAS,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_CIENCIAS,2023,IN_LABORATORIO_CIENCIAS,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_CIENCIAS,2024,IN_LABORATORIO_CIENCIAS,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_LABORATORIO_CIENCIAS,2025,IN_LABORATORIO_CIENCIAS,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_QUADRA_ESPORTES,2021,IN_QUADRA_ESPORTES,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_QUADRA_ESPORTES,2022,IN_QUADRA_ESPORTES,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_QUADRA_ESPORTES,2023,IN_QUADRA_ESPORTES,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_QUADRA_ESPORTES,2024,IN_QUADRA_ESPORTES,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_QUADRA_ESPORTES,2025,IN_QUADRA_ESPORTES,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_REFEITORIO,2021,IN_REFEITORIO,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Refeitório,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_REFEITORIO,2022,IN_REFEITORIO,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Refeitório,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_REFEITORIO,2023,IN_REFEITORIO,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Refeitório,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_REFEITORIO,2024,IN_REFEITORIO,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Refeitório,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_REFEITORIO,2025,IN_REFEITORIO,COMPATIVEL,Dependências físicas existentes e utilizadas na escola - Refeitório,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_POTAVEL,2021,IN_AGUA_POTAVEL,COMPATIVEL,Fornece água potável para o consumo humano,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_POTAVEL,2022,IN_AGUA_POTAVEL,COMPATIVEL,Fornece água potável para o consumo humano,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_POTAVEL,2023,IN_AGUA_POTAVEL,COMPATIVEL,Fornece água potável para o consumo humano,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_POTAVEL,2024,IN_AGUA_POTAVEL,COMPATIVEL,Fornece água potável para o consumo humano,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_POTAVEL,2025,IN_AGUA_POTAVEL,COMPATIVEL,Fornece água potável para o consumo humano,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_REDE_PUBLICA,2021,IN_AGUA_REDE_PUBLICA,COMPATIVEL,Abastecimento de água - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_REDE_PUBLICA,2022,IN_AGUA_REDE_PUBLICA,COMPATIVEL,Abastecimento de água - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_REDE_PUBLICA,2023,IN_AGUA_REDE_PUBLICA,COMPATIVEL,Abastecimento de água - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_REDE_PUBLICA,2024,IN_AGUA_REDE_PUBLICA,COMPATIVEL,Abastecimento de água - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_REDE_PUBLICA,2025,IN_AGUA_REDE_PUBLICA,COMPATIVEL,Abastecimento de água - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_INEXISTENTE,2021,IN_AGUA_INEXISTENTE,COMPATIVEL,Abastecimento de água - Não há abastecimento de água,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_INEXISTENTE,2022,IN_AGUA_INEXISTENTE,COMPATIVEL,Abastecimento de água - Não há abastecimento de água,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_INEXISTENTE,2023,IN_AGUA_INEXISTENTE,COMPATIVEL,Abastecimento de água - Não há abastecimento de água,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_INEXISTENTE,2024,IN_AGUA_INEXISTENTE,COMPATIVEL,Abastecimento de água - Não há abastecimento de água,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_AGUA_INEXISTENTE,2025,IN_AGUA_INEXISTENTE,COMPATIVEL,Abastecimento de água - Não há abastecimento de água,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_REDE_PUBLICA,2021,IN_ENERGIA_REDE_PUBLICA,COMPATIVEL,Abastecimento de energia elétrica - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_REDE_PUBLICA,2022,IN_ENERGIA_REDE_PUBLICA,COMPATIVEL,Abastecimento de energia elétrica - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_REDE_PUBLICA,2023,IN_ENERGIA_REDE_PUBLICA,COMPATIVEL,Abastecimento de energia elétrica - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_REDE_PUBLICA,2024,IN_ENERGIA_REDE_PUBLICA,COMPATIVEL,Abastecimento de energia elétrica - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_REDE_PUBLICA,2025,IN_ENERGIA_REDE_PUBLICA,COMPATIVEL,Abastecimento de energia elétrica - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_RENOVAVEL,2021,IN_ENERGIA_RENOVAVEL,COMPATIVEL,"Abastecimento de energia elétrica - Fontes de energia renováveis ou alternativas (gerador a biocombustível e/ou biodigestores, eólica, solar, outras)",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_RENOVAVEL,2022,IN_ENERGIA_RENOVAVEL,COMPATIVEL,"Abastecimento de energia elétrica - Fontes de energia renováveis ou alternativas (gerador a biocombustível e/ou biodigestores, eólica, solar, outras)",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_RENOVAVEL,2023,IN_ENERGIA_RENOVAVEL,COMPATIVEL,"Abastecimento de energia elétrica - Fontes de energia renováveis ou alternativas (gerador a biocombustível e/ou biodigestores, eólica, solar, outras)",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_RENOVAVEL,2024,IN_ENERGIA_RENOVAVEL,COMPATIVEL,"Abastecimento de energia elétrica - Fontes de energia renováveis ou alternativas (gerador a biocombustível e/ou biodigestores, eólica, solar, outras)",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_RENOVAVEL,2025,IN_ENERGIA_RENOVAVEL,COMPATIVEL,"Abastecimento de energia elétrica - Fontes de energia renováveis ou alternativas (gerador a biocombustível e/ou biodigestores, eólica, solar, outras)",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_INEXISTENTE,2021,IN_ENERGIA_INEXISTENTE,COMPATIVEL,Abastecimento de energia elétrica - Não há energia elétrica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_INEXISTENTE,2022,IN_ENERGIA_INEXISTENTE,COMPATIVEL,Abastecimento de energia elétrica - Não há energia elétrica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_INEXISTENTE,2023,IN_ENERGIA_INEXISTENTE,COMPATIVEL,Abastecimento de energia elétrica - Não há energia elétrica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_INEXISTENTE,2024,IN_ENERGIA_INEXISTENTE,COMPATIVEL,Abastecimento de energia elétrica - Não há energia elétrica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ENERGIA_INEXISTENTE,2025,IN_ENERGIA_INEXISTENTE,COMPATIVEL,Abastecimento de energia elétrica - Não há energia elétrica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_REDE_PUBLICA,2021,IN_ESGOTO_REDE_PUBLICA,COMPATIVEL,Esgoto sanitário - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_REDE_PUBLICA,2022,IN_ESGOTO_REDE_PUBLICA,COMPATIVEL,Esgoto sanitário - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_REDE_PUBLICA,2023,IN_ESGOTO_REDE_PUBLICA,COMPATIVEL,Esgoto sanitário - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_REDE_PUBLICA,2024,IN_ESGOTO_REDE_PUBLICA,COMPATIVEL,Esgoto sanitário - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_REDE_PUBLICA,2025,IN_ESGOTO_REDE_PUBLICA,COMPATIVEL,Esgoto sanitário - Rede pública,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_FOSSA_SEPTICA,2021,IN_ESGOTO_FOSSA_SEPTICA,COMPATIVEL,Esgoto sanitário - Fossa Séptica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_FOSSA_SEPTICA,2022,IN_ESGOTO_FOSSA_SEPTICA,COMPATIVEL,Esgoto sanitário - Fossa Séptica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_FOSSA_SEPTICA,2023,IN_ESGOTO_FOSSA_SEPTICA,COMPATIVEL,Esgoto sanitário - Fossa Séptica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_FOSSA_SEPTICA,2024,IN_ESGOTO_FOSSA_SEPTICA,COMPATIVEL,Esgoto sanitário - Fossa Séptica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_FOSSA_SEPTICA,2025,IN_ESGOTO_FOSSA_SEPTICA,COMPATIVEL,Esgoto sanitário - Fossa Séptica,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_INEXISTENTE,2021,IN_ESGOTO_INEXISTENTE,COMPATIVEL,Esgoto sanitário - Não há esgotamento sanitário,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_INEXISTENTE,2022,IN_ESGOTO_INEXISTENTE,COMPATIVEL,Esgoto sanitário - Não há esgotamento sanitário,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_INEXISTENTE,2023,IN_ESGOTO_INEXISTENTE,COMPATIVEL,Esgoto sanitário - Não há esgotamento sanitário,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_INEXISTENTE,2024,IN_ESGOTO_INEXISTENTE,COMPATIVEL,Esgoto sanitário - Não há esgotamento sanitário,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ESGOTO_INEXISTENTE,2025,IN_ESGOTO_INEXISTENTE,COMPATIVEL,Esgoto sanitário - Não há esgotamento sanitário,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_CORRIMAO,2021,IN_ACESSIBILIDADE_CORRIMAO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Corrimão e guarda corpos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_CORRIMAO,2022,IN_ACESSIBILIDADE_CORRIMAO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Corrimão e guarda corpos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_CORRIMAO,2023,IN_ACESSIBILIDADE_CORRIMAO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Corrimão e guarda corpos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_CORRIMAO,2024,IN_ACESSIBILIDADE_CORRIMAO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Corrimão e guarda corpos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_CORRIMAO,2025,IN_ACESSIBILIDADE_CORRIMAO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Corrimão e guarda corpos,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_ELEVADOR,2021,IN_ACESSIBILIDADE_ELEVADOR,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Elevador,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_ELEVADOR,2022,IN_ACESSIBILIDADE_ELEVADOR,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Elevador,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_ELEVADOR,2023,IN_ACESSIBILIDADE_ELEVADOR,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Elevador,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_ELEVADOR,2024,IN_ACESSIBILIDADE_ELEVADOR,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Elevador,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_ELEVADOR,2025,IN_ACESSIBILIDADE_ELEVADOR,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Elevador,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_PISOS_TATEIS,2021,IN_ACESSIBILIDADE_PISOS_TATEIS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Pisos táteis,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_PISOS_TATEIS,2022,IN_ACESSIBILIDADE_PISOS_TATEIS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Pisos táteis,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_PISOS_TATEIS,2023,IN_ACESSIBILIDADE_PISOS_TATEIS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Pisos táteis,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_PISOS_TATEIS,2024,IN_ACESSIBILIDADE_PISOS_TATEIS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Pisos táteis,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_PISOS_TATEIS,2025,IN_ACESSIBILIDADE_PISOS_TATEIS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Pisos táteis,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_VAO_LIVRE,2021,IN_ACESSIBILIDADE_VAO_LIVRE,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Portas com vão livre de no mínimo 80 cm,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_VAO_LIVRE,2022,IN_ACESSIBILIDADE_VAO_LIVRE,COMPATIVEL,"Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Portas com vão livre de, no mínimo, 80 cm",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_VAO_LIVRE,2023,IN_ACESSIBILIDADE_VAO_LIVRE,COMPATIVEL,"Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Portas com vão livre de, no mínimo, 80 cm",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_VAO_LIVRE,2024,IN_ACESSIBILIDADE_VAO_LIVRE,COMPATIVEL,"Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Portas com vão livre de, no mínimo, 80 cm",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_VAO_LIVRE,2025,IN_ACESSIBILIDADE_VAO_LIVRE,COMPATIVEL,"Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Portas com vão livre de, no mínimo, 80 cm",Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_RAMPAS,2021,IN_ACESSIBILIDADE_RAMPAS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Rampas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_RAMPAS,2022,IN_ACESSIBILIDADE_RAMPAS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Rampas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_RAMPAS,2023,IN_ACESSIBILIDADE_RAMPAS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Rampas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_RAMPAS,2024,IN_ACESSIBILIDADE_RAMPAS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Rampas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_RAMPAS,2025,IN_ACESSIBILIDADE_RAMPAS,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Rampas,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_SONORO,2021,IN_ACESSIBILIDADE_SINAL_SONORO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização sonora,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_SONORO,2022,IN_ACESSIBILIDADE_SINAL_SONORO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização sonora,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_SONORO,2023,IN_ACESSIBILIDADE_SINAL_SONORO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização sonora,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_SONORO,2024,IN_ACESSIBILIDADE_SINAL_SONORO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização sonora,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_SONORO,2025,IN_ACESSIBILIDADE_SINAL_SONORO,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização sonora,Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_TATIL,2021,IN_ACESSIBILIDADE_SINAL_TATIL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização tátil (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_TATIL,2022,IN_ACESSIBILIDADE_SINAL_TATIL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização tátil (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_TATIL,2023,IN_ACESSIBILIDADE_SINAL_TATIL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização tátil (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_TATIL,2024,IN_ACESSIBILIDADE_SINAL_TATIL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização tátil (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_TATIL,2025,IN_ACESSIBILIDADE_SINAL_TATIL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização tátil (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_VISUAL,2021,IN_ACESSIBILIDADE_SINAL_VISUAL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização visual (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_VISUAL,2022,IN_ACESSIBILIDADE_SINAL_VISUAL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização visual (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_VISUAL,2023,IN_ACESSIBILIDADE_SINAL_VISUAL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização visual (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_VISUAL,2024,IN_ACESSIBILIDADE_SINAL_VISUAL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização visual (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+IN_ACESSIBILIDADE_SINAL_VISUAL,2025,IN_ACESSIBILIDADE_SINAL_VISUAL,COMPATIVEL,Recursos de acessibilidade para pessoas com deficiência ou mobilidade reduzida nas vias de circulação interna na escola - Sinalização visual (piso/paredes),Mesmo codigo e descricao oficial equivalente ao ano de referencia.
+QT_MAT_BAS_INT,2021,QT_MAT_INF_INT+QT_MAT_FUND_INT+QT_MAT_MED_INT,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Infantil - Tempo Integral,Total reconstruido pela soma de etapas integrais; regra documentada.
+QT_MAT_BAS_INT,2022,QT_MAT_INF_INT+QT_MAT_FUND_INT+QT_MAT_MED_INT,EQUIVALENCIA PARCIAL,Número de Matrículas na Educação Infantil - Tempo Integral,Total reconstruido pela soma de etapas integrais; regra documentada.
+QT_MAT_BAS_INT,2023,QT_MAT_INF_INT+QT_MAT_FUND_INT+QT_MAT_MED_INT,EQUIVALENCIA PARCIAL,Número de Matrículas da Educação Infantil - Tempo Integral,Total reconstruido pela soma de etapas integrais; regra documentada.
+QT_MAT_BAS_INT,2024,QT_MAT_INF_INT+QT_MAT_FUND_INT+QT_MAT_MED_INT,EQUIVALENCIA PARCIAL,Número de Matrículas da Educação Infantil - Tempo Integral,Total reconstruido pela soma de etapas integrais; regra documentada.
+QT_MAT_BAS_INT,2025,QT_MAT_BAS_INT,COMPATIVEL,Número de Matrículas da Educação Básica - Tempo Integral,Mesmo codigo e descricao oficial equivalente ao ano de referencia.

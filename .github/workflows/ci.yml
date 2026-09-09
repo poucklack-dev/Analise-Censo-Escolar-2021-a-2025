@@ -1,0 +1,21 @@
+name: Verificação do projeto
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Instalar dependências
+        run: python -m pip install -r requirements.txt
+      - name: Validar sintaxe
+        run: python -m py_compile app.py pipeline.py historical_pipeline.py predictive_pipeline.py generate_reports.py webapp.py
+      - name: Validar artefatos necessários
+        run: python validate_repository.py

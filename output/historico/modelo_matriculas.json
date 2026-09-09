@@ -1,0 +1,55 @@
+{
+  "nome": "Ridge longitudinal de matriculas",
+  "objetivo": "Prever matriculas da escola no proximo Censo",
+  "target": "QT_MAT_BAS no ano t+1",
+  "periodo_treino": "features 2021-2023 / targets 2022-2024",
+  "periodo_teste": "features 2024 / target 2025",
+  "observacoes_treino": 525711,
+  "observacoes_teste": 174464,
+  "features": [
+    "QT_MAT_BAS",
+    "LAG_MATRICULAS_2",
+    "QT_DOC_BAS",
+    "QT_TUR_BAS",
+    "QT_SALAS_UTILIZADAS",
+    "ALUNOS_DOCENTE",
+    "ALUNOS_TURMA",
+    "VAR_MATRICULAS_1ANO",
+    "IN_INTERNET",
+    "IN_BANDA_LARGA",
+    "TP_DEPENDENCIA",
+    "TP_LOCALIZACAO"
+  ],
+  "algoritmo": "Ridge em log1p(target), alpha=10",
+  "baseline": "persistencia: matriculas_t+1 = matriculas_t",
+  "metricas_modelo": {
+    "MAE": 110.98957854836004,
+    "RMSE": 464.7562356729949,
+    "MAPE": 52.16723329082124,
+    "R2": -1.200175295896035
+  },
+  "metricas_baseline": {
+    "MAE": 27.40801540719002,
+    "RMSE": 88.84647190762765,
+    "MAPE": 17.25103408540656,
+    "R2": 0.9195942316404389
+  },
+  "superou_baseline_mae": false,
+  "importancia_coeficientes_padronizados": {
+    "ALUNOS_TURMA": 0.7702562600336517,
+    "QT_TUR_BAS": 0.7290311130140283,
+    "ALUNOS_DOCENTE": 0.39541720499197797,
+    "QT_MAT_BAS": 0.30704163630617143,
+    "QT_DOC_BAS": 0.21031664964078053,
+    "TP_LOCALIZACAO": 0.18084908705466204,
+    "IN_INTERNET": 0.1592706883326557,
+    "TP_DEPENDENCIA": 0.09944522324103618,
+    "QT_SALAS_UTILIZADAS": 0.04107807316052208,
+    "VAR_MATRICULAS_1ANO": 0.03145963233632538,
+    "IN_BANDA_LARGA": 0.0043796457375081315,
+    "LAG_MATRICULAS_2": 0.001209924727509134
+  },
+  "intervalo": "quantis 10% e 90% dos residuos do teste temporal de 2025",
+  "gerado_em_utc": "2026-09-09T09:57:13.302400+00:00",
+  "limitacoes": "Quatro transicoes anuais; mudancas cadastrais e metodologicas podem afetar o painel. Importancias nao sao causais."
+}
